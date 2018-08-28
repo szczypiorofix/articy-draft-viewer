@@ -1,0 +1,1441 @@
+﻿<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Export Version="3.1" CreatorTool="articy:draft" CreatorVersion="3.1.16" CreatedOn="2018-08-28T20:56:40Z">
+  <Settings>
+    <ExportMarkup>0</ExportMarkup>
+    <ExportQueries>0</ExportQueries>
+    <WriteNamespace>0</WriteNamespace>
+    <WriteAllVariables>1</WriteAllVariables>
+  </Settings>
+  <Content>
+    <Project Id="0x0100000000000001">
+      <DisplayName>TestProject</DisplayName>
+      <TechnicalName>Testproject</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037927937</Url>
+    </Project>
+    <ProjectSettings Id="0x03000000F917511B">
+      <FlowSettings>
+        <BuiltInScriptSupport>1</BuiltInScriptSupport>
+        <GridSize>25</GridSize>
+        <GridSizeEnforced>0</GridSizeEnforced>
+        <SpacingHorizontal>50</SpacingHorizontal>
+        <SpacingVertical>50</SpacingVertical>
+        <SpacingEnforced>0</SpacingEnforced>
+      </FlowSettings>
+      <JourneySettings>
+        <BackgroundImageMode>FromNode</BackgroundImageMode>
+        <BackgroundImagePositioningMode>Filling</BackgroundImagePositioningMode>
+        <BackgroundColorMode>Custom</BackgroundColorMode>
+        <BackgroundColor>#798F93</BackgroundColor>
+        <BackgroundColorGradientMode>On</BackgroundColorGradientMode>
+        <Duration>10</Duration>
+        <TransitionMode>Animated</TransitionMode>
+      </JourneySettings>
+      <LocationSettings>
+        <ShowDisplayNameForZone>1</ShowDisplayNameForZone>
+        <DropShadowForZone>1</DropShadowForZone>
+        <DisplayNameSizeForZone>11</DisplayNameSizeForZone>
+        <DisplayNameColorForZone>#FFFFFF</DisplayNameColorForZone>
+        <ShowDisplayNameForPath>1</ShowDisplayNameForPath>
+        <DropShadowForPath>1</DropShadowForPath>
+        <DisplayNameSizeForPath>11</DisplayNameSizeForPath>
+        <DisplayNameColorForPath>#FFFFFF</DisplayNameColorForPath>
+        <ShowDisplayNameForImage>0</ShowDisplayNameForImage>
+        <DropShadowForImage>1</DropShadowForImage>
+        <DisplayNameSizeForImage>11</DisplayNameSizeForImage>
+        <DisplayNameColorForImage>#FFFFFF</DisplayNameColorForImage>
+        <ShowDisplayNameForSpot>1</ShowDisplayNameForSpot>
+        <DropShadowForSpot>1</DropShadowForSpot>
+        <DisplayNameColorForSpot>#FFFFFF</DisplayNameColorForSpot>
+        <SpotStyleKind>Flag</SpotStyleKind>
+        <SpotStyleSize>Large</SpotStyleSize>
+        <ShowDisplayNameForLink>1</ShowDisplayNameForLink>
+        <DropShadowForLink>1</DropShadowForLink>
+        <DisplayNameColorForLink>#FFFFFF</DisplayNameColorForLink>
+        <LinkStyleKind>PreviewImage</LinkStyleKind>
+        <LinkStyleSize>Large</LinkStyleSize>
+        <DropShadowForText>1</DropShadowForText>
+      </LocationSettings>
+      <ExternalApplications/>
+    </ProjectSettings>
+    <Assets Id="0x030000004C3DAF54">
+      <DisplayName>Asset</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Assets>
+    <AssetsUserFolder Id="0x01000000000004B1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Obrazki</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ufo_816A6D6E</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x816A6D6E</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929137</Url>
+    </AssetsUserFolder>
+    <Documents Id="0x03000000103AA2F0">
+      <DisplayName>Dokumenty</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Documents>
+    <Entities Id="0x03000000AC61A2B3">
+      <DisplayName>Podmioty</DisplayName>
+      <Color>#FF0000</Color>
+    </Entities>
+    <Features Id="0x03000000D2404DC0">
+      <DisplayName>Właściwości</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Features>
+    <Flow Id="0x0300000043CE43F7">
+      <DisplayName>Flow</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Flow>
+    <GlobalVariables Id="0x030000002B4F4C54">
+      <DisplayName>Zmienne globalne</DisplayName>
+      <Color>#C8E2E7</Color>
+    </GlobalVariables>
+    <Journeys Id="0x03000000236F7272">
+      <DisplayName>Tury</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Journeys>
+    <Locations Id="0x030000003140D3AC">
+      <DisplayName>Lokacje</DisplayName>
+      <Color>#C8E2E7</Color>
+    </Locations>
+    <ObjectTemplates Id="0x030000009AF68DCD">
+      <DisplayName>Szablony</DisplayName>
+      <Color>#C8E2E7</Color>
+    </ObjectTemplates>
+    <ObjectTemplates Id="0x0300000029CF057C">
+      <DisplayName>Desing szablonu</DisplayName>
+      <Color>#C8E2E7</Color>
+    </ObjectTemplates>
+    <PropertyTemplates Id="0x030000002C0951AE">
+      <DisplayName>Definicje właśności</DisplayName>
+      <Color>#C8E2E7</Color>
+    </PropertyTemplates>
+    <TypedObjectTemplates Id="0x0300000078B45A71">
+      <DisplayName>Podmioty</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000006D1BC275">
+      <DisplayName>Fragmenty flowu</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000030B5ACF">
+      <DisplayName>Fragmenty dialogów</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000008DD5C0F2">
+      <DisplayName>Dialogi</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000092CF598E">
+      <DisplayName>Lokacje</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000030635118">
+      <DisplayName>Assety</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000A715C057">
+      <DisplayName>Obszary</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000005314E813">
+      <DisplayName>Ścieżki</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x030000004264B29C">
+      <DisplayName>Miejsca</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000FB371D5C">
+      <DisplayName>Linki</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000013DF3A1A">
+      <DisplayName>Ośrodki</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000ADA9FA17">
+      <DisplayName>Skoki</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000ECC00F83">
+      <DisplayName>Documenty</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000F514339C">
+      <DisplayName>Teksty</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x0300000096812FC1">
+      <DisplayName>Teksty (w lokacjach)</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000CC5A07F0">
+      <DisplayName>Obrazy (w lokacjach)</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000DCC67F9D">
+      <DisplayName>Warunki</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedObjectTemplates Id="0x03000000BA022E2F">
+      <DisplayName>Instrukcje</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedObjectTemplates>
+    <TypedPropertyTemplates Id="0x030000006E2C178B">
+      <DisplayName>Numery</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x03000000BB12F1B8">
+      <DisplayName>Boolean</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x030000006F82D78E">
+      <DisplayName>Teksty</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x0300000037DCE3F0">
+      <DisplayName>Rozwijana lista</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x030000003630A240">
+      <DisplayName>Gniazda i Listwy</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <TypedPropertyTemplates Id="0x03000000D745C449">
+      <DisplayName>Skrypty</DisplayName>
+      <Color>#C8E2E7</Color>
+    </TypedPropertyTemplates>
+    <Asset Id="0x01000000000004B6">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_001</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_CB07CBE1</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xCB07CBE1</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929142</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004B6" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_001(05B6).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_001.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004B9">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_002</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_F045AEDB</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF045AEDB</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929145</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004B9" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_002(05B9).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_002.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004BC">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_003</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_2E84C0F0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x2E84C0F0</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929148</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004BC" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_003(05BC).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_003.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004BF">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_004</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_02447EE4</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x02447EE4</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929151</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004BF" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_004(05BF).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_004.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004C2">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_005</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_6FE5F874</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x6FE5F874</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929154</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004C2" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_005(05C2).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_005.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004C5">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_006</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_29286089</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x29286089</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929157</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004C5" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_006(05C5).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_006.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004C8">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_007</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_EAE86256</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xEAE86256</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929160</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004C8" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_007(05C8).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_007.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004CB">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_008</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_ED8AB678</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xED8AB678</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929163</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004CB" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_008(05CB).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_008.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004CE">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_009</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_77E5805B</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x77E5805B</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929166</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004CE" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_009(05CE).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_009.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004D1">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_010</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_DED6513C</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xDED6513C</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929169</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004D1" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_010(05D1).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_010.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004D4">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_011</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_F79DA05C</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF79DA05C</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929172</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004D4" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_011(05D4).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_011.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004D7">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_012</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_43750E78</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x43750E78</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929175</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004D7" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_012(05D7).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_012.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004DA">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_013</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_F04EC826</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF04EC826</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929178</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004DA" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_013(05DA).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_013.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004DD">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_014</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_A5B95BE0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xA5B95BE0</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929181</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004DD" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_014(05DD).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_014.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004E0">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_015</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_CA619CE0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xCA619CE0</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929184</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004E0" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_015(05E0).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_015.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004E3">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_016</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_4D5F5D1A</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x4D5F5D1A</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929187</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004E3" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_016(05E3).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_016.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004E6">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_017</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_B5EB724D</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xB5EB724D</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929190</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004E6" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_017(05E6).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_017.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004E9">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_018</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_535B89BF</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x535B89BF</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929193</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004E9" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_018(05E9).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_018.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004EC">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_019</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_825E8F2A</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x825E8F2A</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929196</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004EC" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_019(05EC).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_019.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004EF">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_020</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_E5D76558</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xE5D76558</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929199</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004EF" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_020(05EF).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_020.png</OriginalSource>
+    </Asset>
+    <Asset Id="0x01000000000004F2">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">image_part_021</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ast_C60BBE76</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xC60BBE76</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929202</Url>
+      <Features Count="0"/>
+      <PreviewImage IdRef="0x01000000000004F2" Mode="Auto">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+      <AssetFilename>image_part_021(05F2).png</AssetFilename>
+      <AssetPath>Assets\Partition(33d56458-6621-42a6-aa28-40cadd5f8461)\</AssetPath>
+      <OriginalSource>file:///C:/Users/Semiko/Downloads/cut_images_archive_00QGPMmHBgKtJ8/cut_images_00QGPMmHBgKtJ8/image_part_021.png</OriginalSource>
+    </Asset>
+    <Comment Id="0x01000000000006D2">
+      <Text Count="1">
+        <LocalizedString Lang="">Notatka nr. #1</LocalizedString>
+      </Text>
+      <Color>#000000</Color>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929682</Url>
+      <CreatedOn>2018-08-28T20:36:04Z</CreatedOn>
+      <CreatedBy/>
+    </Comment>
+    <Connection Id="0x01000000000002F2">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_6C30E096</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928690</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000136" PinRef="0x0100000000000139"/>
+      <Target IdRef="0x010000000000024D" PinRef="0x0100000000000250"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x01000000000002F3">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_6C560844</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928691</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000024D" PinRef="0x0100000000000251"/>
+      <Target IdRef="0x01000000000002F4" PinRef="0x01000000000002F7"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x01000000000002F9">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_524B6DB6</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928697</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000002F4" PinRef="0x01000000000002F8"/>
+      <Target IdRef="0x0100000000000136" PinRef="0x010000000000013A"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000049B">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_9417C3CE</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929115</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000488" PinRef="0x010000000000048B"/>
+      <Target IdRef="0x0100000000000496" PinRef="0x0100000000000499"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000049D">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_0D8B241A</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929117</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000496" PinRef="0x010000000000049A"/>
+      <Target IdRef="0x01000000000006BD" PinRef="0x01000000000006C0"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x01000000000006C2">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_05D38EFC</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929666</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000006BD" PinRef="0x01000000000006C1"/>
+      <Target IdRef="0x01000000000006D4" PinRef="0x01000000000006D6"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x01000000000006D9">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_56E16E95</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929689</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000006D4" PinRef="0x01000000000006D7"/>
+      <Target IdRef="0x0100000000000488" PinRef="0x010000000000048C"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000051F">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_92368FB0</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929247</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000519" PinRef="0x010000000000051D"/>
+      <Target IdRef="0x0100000000000651" PinRef="0x0100000000000654"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x0100000000000520">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_85EE895C</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929248</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x010000000000050F" PinRef="0x0100000000000512"/>
+      <Target IdRef="0x01000000000005A0" PinRef="0x01000000000005A3"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000052B">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_512F6DBD</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929259</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000519" PinRef="0x010000000000051D"/>
+      <Target IdRef="0x0100000000000656" PinRef="0x0100000000000659"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x01000000000005A5">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_74381054</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929381</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000005A0" PinRef="0x01000000000005A4"/>
+      <Target IdRef="0x0100000000000519" PinRef="0x010000000000051C"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x01000000000005FE">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_ECC8C0B2</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929470</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x01000000000005F7" PinRef="0x01000000000005FB"/>
+      <Target IdRef="0x010000000000050F" PinRef="0x0100000000000513"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x0100000000000631">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_8F8ADC71</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929521</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000521" PinRef="0x0100000000000525"/>
+      <Target IdRef="0x01000000000005F7" PinRef="0x01000000000005FA"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x0100000000000632">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_29497499</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929522</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000526" PinRef="0x010000000000052A"/>
+      <Target IdRef="0x01000000000005F7" PinRef="0x01000000000005FA"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000065B">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_3B6E6338</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929563</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000651" PinRef="0x0100000000000655"/>
+      <Target IdRef="0x0100000000000521" PinRef="0x0100000000000524"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Connection Id="0x010000000000065C">
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Con_7ACD2762</TechnicalName>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929564</Url>
+      <Label Count="0"/>
+      <Source IdRef="0x0100000000000656" PinRef="0x010000000000065A"/>
+      <Target IdRef="0x0100000000000526" PinRef="0x0100000000000529"/>
+      <ShowLabel>0</ShowLabel>
+    </Connection>
+    <Dialogue Id="0x0100000000000136">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Todd Howard</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Dialog z Toddem Howardem</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dlg_DFAA7D9F</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xDFAA7D9F</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928246</Url>
+      <Features Count="0"/>
+      <References Count="2">
+        <Reference IdRef="0x0100000000000463"/>
+        <Reference IdRef="0x0100000000000568"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000139" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000013A" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="167" Y="200"/>
+      <Size Width="266" Height="175"/>
+      <ZIndex>0</ZIndex>
+    </Dialogue>
+    <Dialogue Id="0x0100000000000488">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Pete Hines</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Dialog z Petem Hinesem</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dlg_1389F327</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x1389F327</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929096</Url>
+      <Features Count="0"/>
+      <References Count="2">
+        <Reference IdRef="0x010000000000048E"/>
+        <Reference IdRef="0x0100000000000568"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x010000000000048B" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000048C" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="167" Y="425"/>
+      <Size Width="266" Height="175"/>
+      <ZIndex>1</ZIndex>
+    </Dialogue>
+    <Dialogue Id="0x010000000000050F">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Fionn MacPheadrais</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To jest dialog z postacią Fionn MacPheadrais.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Dlg_F23B1D81</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF23B1D81</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929231</Url>
+      <Features Count="0"/>
+      <References Count="2">
+        <Reference IdRef="0x0100000000000509"/>
+        <Reference IdRef="0x0100000000000568"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000512" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000513" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="292" Y="375"/>
+      <Size Width="291" Height="200"/>
+      <ZIndex>0</ZIndex>
+    </Dialogue>
+    <DialogueFragment Id="0x010000000000024D">
+      <DisplayName><![CDATA[Todd Howard: "Witaj! Jestem Todd. Todd Howard."]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Witaj! Jestem Todd. Todd Howard.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_980A2323</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x980A2323</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928525</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000250" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000251" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="450" Y="650"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>2</ZIndex>
+      <Speaker IdRef="0x0100000000000463"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="1">
+        <LocalizedString Lang=""/>
+      </MenuText>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000002F4">
+      <DisplayName><![CDATA[Todd Howard: "It just works!"]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">It just works!</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_B95B06D0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xB95B06D0</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928692</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000002F7" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000002F8" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="750" Y="650"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>3</ZIndex>
+      <Speaker IdRef="0x0100000000000463"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000496">
+      <DisplayName><![CDATA[Pete Hines: "Witaj, jestem Pete Hines!"]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Witaj, jestem Pete Hines!</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_BC0DC430</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xBC0DC430</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929110</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000499" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000049A" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="325" Y="300"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>0</ZIndex>
+      <Speaker IdRef="0x010000000000048E"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="1">
+        <LocalizedString Lang=""/>
+      </MenuText>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000006BD">
+      <DisplayName><![CDATA[Pete Hines: "Beta Fallouta 76 będzie wtedy kiedy..."]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Beta Fallouta 76 będzie wtedy kiedy będzie. Koniec, kropka.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_FAD712B5</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xFAD712B5</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929661</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000006C0" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000006C1" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="625" Y="300"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>3</ZIndex>
+      <Speaker IdRef="0x010000000000048E"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000519">
+      <DisplayName><![CDATA[Fionn MacPheadrais: "Witaj. Czego tu szukasz?"]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Witaj. Czego tu szukasz?</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_245F7445</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x245F7445</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929241</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x010000000000051C" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000051D" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="100" Y="500"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>0</ZIndex>
+      <Speaker IdRef="0x0100000000000509"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="1">
+        <LocalizedString Lang=""/>
+      </MenuText>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000521">
+      <DisplayName><![CDATA[Fionn MacPheadrais: "To poszukaj gdzie indziej. Ja sam ś..."]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To poszukaj gdzie indziej. Ja sam świetnie daję sobie radę.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_CDD0C072</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xCDD0C072</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929249</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000524" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000525" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="750" Y="375"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>3</ZIndex>
+      <Speaker IdRef="0x0100000000000509"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="1">
+        <LocalizedString Lang=""/>
+      </MenuText>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000526">
+      <DisplayName><![CDATA[Fionn MacPheadrais: "Tylko nie narób kłopotów, i tak mam..."]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Tylko nie narób kłopotów, i tak mamy ich aż nadto.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_C76F40B0</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xC76F40B0</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929254</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000529" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000052A" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="750" Y="625"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>4</ZIndex>
+      <Speaker IdRef="0x0100000000000509"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="1">
+        <LocalizedString Lang=""/>
+      </MenuText>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000005A0">
+      <DisplayName><![CDATA[Player: "Witaj"]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Witaj</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_4DCBC525</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x4DCBC525</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929376</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000005A3" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000005A4" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="-200" Y="500"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>10</ZIndex>
+      <Speaker IdRef="0x0100000000000568"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="1">
+        <LocalizedString Lang="">Menu: Witaj!</LocalizedString>
+      </MenuText>
+    </DialogueFragment>
+    <DialogueFragment Id="0x01000000000005F7">
+      <DisplayName><![CDATA[Fionn MacPheadrais: "Tak czy siak, nie mam teraz czasu n..."]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Tak czy siak, nie mam teraz czasu na pogaduszki.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_07A21F74</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x07A21F74</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929463</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000005FA" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000005FB" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="1100" Y="500"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>13</ZIndex>
+      <Speaker IdRef="0x0100000000000509"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000651">
+      <DisplayName><![CDATA[Player: "Szukam pracy"]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Szukam pracy</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_C8E64353</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xC8E64353</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929553</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000654" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000655" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="450" Y="375"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>12</ZIndex>
+      <Speaker IdRef="0x0100000000000568"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <DialogueFragment Id="0x0100000000000656">
+      <DisplayName><![CDATA[Player: "Tułam się w poszukiwaniu własnego m..."]]></DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Tułam się w poszukiwaniu własnego miejsca w tym nieprzyjaznym świecie.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>DFr_90C9F6AD</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x90C9F6AD</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929558</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000659" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000065A" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="450" Y="625"/>
+      <Size Width="225" Height="200"/>
+      <ZIndex>13</ZIndex>
+      <Speaker IdRef="0x0100000000000568"/>
+      <StageDirections Count="0"/>
+      <MenuText Count="0"/>
+    </DialogueFragment>
+    <Entity Id="0x0100000000000463">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Todd Howard</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To jest postać Todd Howard.</LocalizedString>
+      </Text>
+      <Color>#FBD5B5</Color>
+      <TechnicalName>Ntt_87D77F10</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x87D77F10</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929059</Url>
+      <Features Count="0"/>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x01000000000004E9" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x010000000000048E">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Pete Hines</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To jest Pete Hines.</LocalizedString>
+      </Text>
+      <Color>#938953</Color>
+      <TechnicalName>Ntt_F884BB67</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xF884BB67</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929102</Url>
+      <Features Count="0"/>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x01000000000004B9" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x01000000000004F5">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Gilduin Konan</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To jest postać Gilduin Konan</LocalizedString>
+      </Text>
+      <Color>#548DD4</Color>
+      <TechnicalName>Ntt_854152A9</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x854152A9</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929205</Url>
+      <Features Count="0"/>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x01000000000004C8" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x01000000000004FA">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Nolo Hascoet</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To jest postać Nolo Hascoet.</LocalizedString>
+      </Text>
+      <Color>#92CDDC</Color>
+      <TechnicalName>Ntt_C00F8195</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xC00F8195</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929210</Url>
+      <Features Count="0"/>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x01000000000004D4" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x01000000000004FF">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Fraech Mac Conmidhe</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To jest postać Fraech Mac Conmidhe.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_A1C55508</TechnicalName>
+      <ExternalId/>
+      <ShortId>0xA1C55508</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929215</Url>
+      <Features Count="0"/>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x01000000000004E6" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x0100000000000504">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Horas MacCain</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To jest postać Horas MacCain.</LocalizedString>
+      </Text>
+      <Color>#953734</Color>
+      <TechnicalName>Ntt_8050589D</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x8050589D</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929220</Url>
+      <Features Count="0"/>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x01000000000004F2" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x0100000000000509">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Fionn MacPheadrais</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">To jest postać o imieniu Fionn MacPheadrais.</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Ntt_2D2CD135</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x2D2CD135</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929225</Url>
+      <Features Count="0"/>
+      <References Count="0"/>
+      <PreviewImage IdRef="0x01000000000004CE" Mode="FromAsset">
+        <ViewBox MinX="0" MinY="0" MaxX="0" MaxY="0"/>
+      </PreviewImage>
+    </Entity>
+    <Entity Id="0x0100000000000568">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Player</LocalizedString>
+      </DisplayName>
+      <Color>#FF0000</Color>
+      <TechnicalName>Ntt_8E65279A</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x8E65279A</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929320</Url>
+      <Features Count="0"/>
+      <References Count="0"/>
+    </Entity>
+    <FlowFragment Id="0x0100000000000126">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Croydon</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Dialogi w mieście Croydon</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>FFr_6C0043C3</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x6C0043C3</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928230</Url>
+      <Features Count="0"/>
+      <References Count="3">
+        <Reference IdRef="0x0100000000000463"/>
+        <Reference IdRef="0x010000000000048E"/>
+        <Reference IdRef="0x0100000000000568"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000153" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x010000000000012A" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="0" Y="100"/>
+      <Size Width="275" Height="200"/>
+      <ZIndex>0</ZIndex>
+    </FlowFragment>
+    <FlowFragment Id="0x0100000000000469">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Kineallen</LocalizedString>
+      </DisplayName>
+      <Text Count="1">
+        <LocalizedString Lang="">Dialogi w mieście Kineallen</LocalizedString>
+      </Text>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>FFr_009B2A6B</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x009B2A6B</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929065</Url>
+      <Features Count="0"/>
+      <References Count="2">
+        <Reference IdRef="0x0100000000000509"/>
+        <Reference IdRef="0x0100000000000568"/>
+      </References>
+      <Pins Count="2">
+        <Pin Id="0x0100000000000482" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x0100000000000483" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="0" Y="350"/>
+      <Size Width="275" Height="200"/>
+      <ZIndex>0</ZIndex>
+    </FlowFragment>
+    <Hub Id="0x01000000000006D4">
+      <DisplayName Count="1">
+        <LocalizedString Lang="">Pierwszy ośrodek</LocalizedString>
+      </DisplayName>
+      <Color>#C8E2E7</Color>
+      <TechnicalName>Hub_897C7D5B</TechnicalName>
+      <ExternalId/>
+      <ShortId>0x897C7D5B</ShortId>
+      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929684</Url>
+      <Features Count="0"/>
+      <Pins Count="2">
+        <Pin Id="0x01000000000006D6" Index="0" Semantic="Input">
+          <Expression/>
+        </Pin>
+        <Pin Id="0x01000000000006D7" Index="0" Semantic="Output">
+          <Expression/>
+        </Pin>
+      </Pins>
+      <Position X="975" Y="375"/>
+      <Size Width="175" Height="50"/>
+      <ZIndex>6</ZIndex>
+    </Hub>
+  </Content>
+  <Hierarchy>
+    <Node IdRef="0x0100000000000001" Type="Project">
+      <Node IdRef="0x0300000043CE43F7" Type="Flow">
+        <Node IdRef="0x0100000000000126" Type="FlowFragment">
+          <Node IdRef="0x0100000000000136" Type="Dialogue">
+            <Node IdRef="0x010000000000024D" Type="DialogueFragment"/>
+            <Node IdRef="0x01000000000002F2" Type="Connection"/>
+            <Node IdRef="0x01000000000002F3" Type="Connection"/>
+            <Node IdRef="0x01000000000002F4" Type="DialogueFragment"/>
+            <Node IdRef="0x01000000000002F9" Type="Connection"/>
+          </Node>
+          <Node IdRef="0x0100000000000488" Type="Dialogue">
+            <Node IdRef="0x0100000000000496" Type="DialogueFragment"/>
+            <Node IdRef="0x010000000000049B" Type="Connection"/>
+            <Node IdRef="0x010000000000049D" Type="Connection"/>
+            <Node IdRef="0x01000000000006BD" Type="DialogueFragment"/>
+            <Node IdRef="0x01000000000006C2" Type="Connection"/>
+            <Node IdRef="0x01000000000006D2" Type="Comment"/>
+            <Node IdRef="0x01000000000006D4" Type="Hub"/>
+            <Node IdRef="0x01000000000006D9" Type="Connection"/>
+          </Node>
+        </Node>
+        <Node IdRef="0x0100000000000469" Type="FlowFragment">
+          <Node IdRef="0x010000000000050F" Type="Dialogue">
+            <Node IdRef="0x0100000000000519" Type="DialogueFragment"/>
+            <Node IdRef="0x010000000000051F" Type="Connection"/>
+            <Node IdRef="0x0100000000000520" Type="Connection"/>
+            <Node IdRef="0x0100000000000521" Type="DialogueFragment"/>
+            <Node IdRef="0x0100000000000526" Type="DialogueFragment"/>
+            <Node IdRef="0x010000000000052B" Type="Connection"/>
+            <Node IdRef="0x01000000000005A0" Type="DialogueFragment"/>
+            <Node IdRef="0x01000000000005A5" Type="Connection"/>
+            <Node IdRef="0x01000000000005F7" Type="DialogueFragment"/>
+            <Node IdRef="0x01000000000005FE" Type="Connection"/>
+            <Node IdRef="0x0100000000000631" Type="Connection"/>
+            <Node IdRef="0x0100000000000632" Type="Connection"/>
+            <Node IdRef="0x0100000000000651" Type="DialogueFragment"/>
+            <Node IdRef="0x0100000000000656" Type="DialogueFragment"/>
+            <Node IdRef="0x010000000000065B" Type="Connection"/>
+            <Node IdRef="0x010000000000065C" Type="Connection"/>
+          </Node>
+        </Node>
+      </Node>
+      <Node IdRef="0x030000003140D3AC" Type="Locations"/>
+      <Node IdRef="0x03000000AC61A2B3" Type="Entities">
+        <Node IdRef="0x0100000000000463" Type="Entity"/>
+        <Node IdRef="0x010000000000048E" Type="Entity"/>
+        <Node IdRef="0x01000000000004F5" Type="Entity"/>
+        <Node IdRef="0x01000000000004FA" Type="Entity"/>
+        <Node IdRef="0x01000000000004FF" Type="Entity"/>
+        <Node IdRef="0x0100000000000504" Type="Entity"/>
+        <Node IdRef="0x0100000000000509" Type="Entity"/>
+        <Node IdRef="0x0100000000000568" Type="Entity"/>
+      </Node>
+      <Node IdRef="0x030000004C3DAF54" Type="Assets">
+        <Node IdRef="0x01000000000004B1" Type="AssetsUserFolder">
+          <Node IdRef="0x01000000000004B6" Type="Asset"/>
+          <Node IdRef="0x01000000000004B9" Type="Asset"/>
+          <Node IdRef="0x01000000000004BC" Type="Asset"/>
+          <Node IdRef="0x01000000000004BF" Type="Asset"/>
+          <Node IdRef="0x01000000000004C2" Type="Asset"/>
+          <Node IdRef="0x01000000000004C5" Type="Asset"/>
+          <Node IdRef="0x01000000000004C8" Type="Asset"/>
+          <Node IdRef="0x01000000000004CB" Type="Asset"/>
+          <Node IdRef="0x01000000000004CE" Type="Asset"/>
+          <Node IdRef="0x01000000000004D1" Type="Asset"/>
+          <Node IdRef="0x01000000000004D4" Type="Asset"/>
+          <Node IdRef="0x01000000000004D7" Type="Asset"/>
+          <Node IdRef="0x01000000000004DA" Type="Asset"/>
+          <Node IdRef="0x01000000000004DD" Type="Asset"/>
+          <Node IdRef="0x01000000000004E0" Type="Asset"/>
+          <Node IdRef="0x01000000000004E3" Type="Asset"/>
+          <Node IdRef="0x01000000000004E6" Type="Asset"/>
+          <Node IdRef="0x01000000000004E9" Type="Asset"/>
+          <Node IdRef="0x01000000000004EC" Type="Asset"/>
+          <Node IdRef="0x01000000000004EF" Type="Asset"/>
+          <Node IdRef="0x01000000000004F2" Type="Asset"/>
+        </Node>
+      </Node>
+      <Node IdRef="0x0300000029CF057C" Type="ObjectTemplates">
+        <Node IdRef="0x03000000D2404DC0" Type="Features"/>
+        <Node IdRef="0x030000009AF68DCD" Type="ObjectTemplates">
+          <Node IdRef="0x0300000078B45A71" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x030000006D1BC275" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000030B5ACF" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x030000008DD5C0F2" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x0300000092CF598E" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x0300000030635118" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000A715C057" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x030000005314E813" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x030000004264B29C" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000FB371D5C" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x0300000013DF3A1A" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000ADA9FA17" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000ECC00F83" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000F514339C" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x0300000096812FC1" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000CC5A07F0" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000DCC67F9D" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x03000000BA022E2F" Type="TypedObjectTemplates"/>
+        </Node>
+        <Node IdRef="0x030000002C0951AE" Type="PropertyTemplates">
+          <Node IdRef="0x030000006E2C178B" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x03000000BB12F1B8" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x030000006F82D78E" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x0300000037DCE3F0" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x030000003630A240" Type="TypedPropertyTemplates"/>
+          <Node IdRef="0x03000000D745C449" Type="TypedPropertyTemplates"/>
+        </Node>
+      </Node>
+      <Node IdRef="0x030000002B4F4C54" Type="GlobalVariables"/>
+      <Node IdRef="0x03000000103AA2F0" Type="Documents"/>
+      <Node IdRef="0x03000000236F7272" Type="Journeys"/>
+      <Node IdRef="0x03000000F917511B" Type="ProjectSettings"/>
+    </Node>
+  </Hierarchy>
+</Export>
