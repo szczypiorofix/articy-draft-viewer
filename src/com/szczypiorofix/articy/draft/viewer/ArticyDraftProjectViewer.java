@@ -11,9 +11,9 @@ package com.szczypiorofix.articy.draft.viewer;
 import java.awt.*;
 
 
-public class ArticyFraftProjectViewer {
+public class ArticyDraftProjectViewer {
 
-    private ArticyFraftProjectViewer() {
+    private ArticyDraftProjectViewer() {
 
 //        Path scriptPath = Paths.get("test.js");
 //        ScriptEngineManager manager = new ScriptEngineManager();
@@ -30,6 +30,6 @@ public class ArticyFraftProjectViewer {
     }
 
     public static void main(String[] args) {
-        EventQueue.invokeLater(ArticyFraftProjectViewer::new);
+        EventQueue.invokeLater(ArticyDraftProjectViewer::new);
     }
 }

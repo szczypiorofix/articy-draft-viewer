@@ -2,7 +2,7 @@
 
 ## ArticyDraft 3 Viewer
 
-This is a tool to view [ArticyDraft 3](https://www.nevigo.com/) xml export files.
+This is a tool to view [ArticyDraft 3](https://www.nevigo.com/en/articydraft/overview/) xml export files.
 
 
 ## Authors
