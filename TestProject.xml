@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<Export Version="3.1" CreatorTool="articy:draft" CreatorVersion="3.1.16" CreatedOn="2018-09-02T18:40:02Z">
+<Export Version="3.1" CreatorTool="articy:draft" CreatorVersion="3.1.16" CreatedOn="2018-09-05T16:26:16Z">
   <Settings>
     <ExportMarkup>0</ExportMarkup>
     <ExportQueries>0</ExportQueries>
@@ -350,7 +350,7 @@
       <Target IdRef="0x0100000000000526" PinRef="0x0100000000000529"/>
       <ShowLabel>0</ShowLabel>
     </Connection>
-    <Dialogue Id="0x0100000000000136" ObjectTemplateReference="0x01000000000006DA" ObjectTemplateReferenceName="Szablon_dialogu">
+    <Dialogue Id="0x0100000000000136">
       <DisplayName Count="1">
         <LocalizedString Lang="">Todd Howard</LocalizedString>
       </DisplayName>
@@ -362,14 +362,7 @@
       <ExternalId/>
       <ShortId>0xDFAA7D9F</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928246</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <References Count="2">
         <Reference IdRef="0x0100000000000463"/>
         <Reference IdRef="0x0100000000000568"/>
@@ -386,7 +379,7 @@
       <Size Width="266" Height="175"/>
       <ZIndex>0</ZIndex>
     </Dialogue>
-    <Dialogue Id="0x0100000000000488" ObjectTemplateReference="0x01000000000006DA" ObjectTemplateReferenceName="Szablon_dialogu">
+    <Dialogue Id="0x0100000000000488">
       <DisplayName Count="1">
         <LocalizedString Lang="">Pete Hines</LocalizedString>
       </DisplayName>
@@ -398,14 +391,7 @@
       <ExternalId/>
       <ShortId>0x1389F327</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929096</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <References Count="2">
         <Reference IdRef="0x010000000000048E"/>
         <Reference IdRef="0x0100000000000568"/>
@@ -422,7 +408,7 @@
       <Size Width="266" Height="175"/>
       <ZIndex>1</ZIndex>
     </Dialogue>
-    <Dialogue Id="0x010000000000050F" ObjectTemplateReference="0x01000000000006DA" ObjectTemplateReferenceName="Szablon_dialogu">
+    <Dialogue Id="0x010000000000050F">
       <DisplayName Count="1">
         <LocalizedString Lang="">Fionn MacPheadrais</LocalizedString>
       </DisplayName>
@@ -434,14 +420,7 @@
       <ExternalId/>
       <ShortId>0xF23B1D81</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929231</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue">1</Enum>
-            <Number Name="NumberValue">0</Number>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <References Count="2">
         <Reference IdRef="0x0100000000000509"/>
         <Reference IdRef="0x0100000000000568"/>
@@ -458,7 +437,7 @@
       <Size Width="291" Height="200"/>
       <ZIndex>0</ZIndex>
     </Dialogue>
-    <DialogueFragment Id="0x010000000000024D" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x010000000000024D">
       <DisplayName><![CDATA[Todd Howard: "Witaj! Jestem Todd. Todd Howard."]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Witaj! Jestem Todd. Todd Howard.</LocalizedString>
@@ -468,14 +447,7 @@
       <ExternalId/>
       <ShortId>0x980A2323</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928525</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x0100000000000250" Index="0" Semantic="Input">
           <Expression/>
@@ -493,7 +465,7 @@
         <LocalizedString Lang=""/>
       </MenuText>
     </DialogueFragment>
-    <DialogueFragment Id="0x01000000000002F4" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x01000000000002F4">
       <DisplayName><![CDATA[Todd Howard: "It just works!"]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">It just works!</LocalizedString>
@@ -503,14 +475,7 @@
       <ExternalId/>
       <ShortId>0xB95B06D0</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037928692</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x01000000000002F7" Index="0" Semantic="Input">
           <Expression/>
@@ -526,7 +491,7 @@
       <StageDirections Count="0"/>
       <MenuText Count="0"/>
     </DialogueFragment>
-    <DialogueFragment Id="0x0100000000000496" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x0100000000000496">
       <DisplayName><![CDATA[Pete Hines: "Witaj, jestem Pete Hines!"]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Witaj, jestem Pete Hines!</LocalizedString>
@@ -536,14 +501,7 @@
       <ExternalId/>
       <ShortId>0xBC0DC430</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929110</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x0100000000000499" Index="0" Semantic="Input">
           <Expression/>
@@ -561,7 +519,7 @@
         <LocalizedString Lang=""/>
       </MenuText>
     </DialogueFragment>
-    <DialogueFragment Id="0x01000000000006BD" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x01000000000006BD">
       <DisplayName><![CDATA[Pete Hines: "Beta Fallouta 76 będzie wtedy kiedy..."]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Beta Fallouta 76 będzie wtedy kiedy będzie. Koniec, kropka.</LocalizedString>
@@ -571,14 +529,7 @@
       <ExternalId/>
       <ShortId>0xFAD712B5</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929661</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x01000000000006C0" Index="0" Semantic="Input">
           <Expression/>
@@ -594,7 +545,7 @@
       <StageDirections Count="0"/>
       <MenuText Count="0"/>
     </DialogueFragment>
-    <DialogueFragment Id="0x0100000000000519" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x0100000000000519">
       <DisplayName><![CDATA[Fionn MacPheadrais: "Witaj. Czego tu szukasz?"]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Witaj. Czego tu szukasz?</LocalizedString>
@@ -604,14 +555,7 @@
       <ExternalId/>
       <ShortId>0x245F7445</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929241</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue">2</Enum>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x010000000000051C" Index="0" Semantic="Input">
           <Expression/>
@@ -629,7 +573,7 @@
         <LocalizedString Lang=""/>
       </MenuText>
     </DialogueFragment>
-    <DialogueFragment Id="0x0100000000000521" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x0100000000000521">
       <DisplayName><![CDATA[Fionn MacPheadrais: "To poszukaj gdzie indziej. Ja sam ś..."]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">To poszukaj gdzie indziej. Ja sam świetnie daję sobie radę.</LocalizedString>
@@ -639,14 +583,7 @@
       <ExternalId/>
       <ShortId>0xCDD0C072</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929249</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x0100000000000524" Index="0" Semantic="Input">
           <Expression/>
@@ -664,7 +601,7 @@
         <LocalizedString Lang=""/>
       </MenuText>
     </DialogueFragment>
-    <DialogueFragment Id="0x0100000000000526" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x0100000000000526">
       <DisplayName><![CDATA[Fionn MacPheadrais: "Tylko nie narób kłopotów, i tak mam..."]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Tylko nie narób kłopotów, i tak mamy ich aż nadto.</LocalizedString>
@@ -674,14 +611,7 @@
       <ExternalId/>
       <ShortId>0xC76F40B0</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929254</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x0100000000000529" Index="0" Semantic="Input">
           <Expression/>
@@ -699,7 +629,7 @@
         <LocalizedString Lang=""/>
       </MenuText>
     </DialogueFragment>
-    <DialogueFragment Id="0x01000000000005A0" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x01000000000005A0">
       <DisplayName><![CDATA[Player: "Witaj"]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Witaj</LocalizedString>
@@ -709,14 +639,7 @@
       <ExternalId/>
       <ShortId>0x4DCBC525</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929376</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x01000000000005A3" Index="0" Semantic="Input">
           <Expression/>
@@ -734,7 +657,7 @@
         <LocalizedString Lang="">Menu: Witaj!</LocalizedString>
       </MenuText>
     </DialogueFragment>
-    <DialogueFragment Id="0x01000000000005F7" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x01000000000005F7">
       <DisplayName><![CDATA[Fionn MacPheadrais: "Tak czy siak, nie mam teraz czasu n..."]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Tak czy siak, nie mam teraz czasu na pogaduszki.</LocalizedString>
@@ -744,14 +667,7 @@
       <ExternalId/>
       <ShortId>0x07A21F74</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929463</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x01000000000005FA" Index="0" Semantic="Input">
           <Expression/>
@@ -767,7 +683,7 @@
       <StageDirections Count="0"/>
       <MenuText Count="0"/>
     </DialogueFragment>
-    <DialogueFragment Id="0x0100000000000651" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x0100000000000651">
       <DisplayName><![CDATA[Player: "Szukam pracy"]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Szukam pracy</LocalizedString>
@@ -777,14 +693,7 @@
       <ExternalId/>
       <ShortId>0xC8E64353</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929553</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue">4</Enum>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x0100000000000654" Index="0" Semantic="Input">
           <Expression/>
@@ -800,7 +709,7 @@
       <StageDirections Count="0"/>
       <MenuText Count="0"/>
     </DialogueFragment>
-    <DialogueFragment Id="0x0100000000000656" ObjectTemplateReference="0x01000000000006DF" ObjectTemplateReferenceName="Szablon_fragmentu_dialogu">
+    <DialogueFragment Id="0x0100000000000656">
       <DisplayName><![CDATA[Player: "Tułam się w poszukiwaniu własnego m..."]]></DisplayName>
       <Text Count="1">
         <LocalizedString Lang="">Tułam się w poszukiwaniu własnego miejsca w tym nieprzyjaznym świecie.</LocalizedString>
@@ -810,14 +719,7 @@
       <ExternalId/>
       <ShortId>0x90C9F6AD</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929558</Url>
-      <Features Count="1">
-        <Feature Name="Opcje_dialog_w" IdRef="0x010000000000070F">
-          <Properties Count="2">
-            <Enum Name="EnumValue"/>
-            <Number Name="NumberValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <Pins Count="2">
         <Pin Id="0x0100000000000659" Index="0" Semantic="Input">
           <Expression/>
@@ -923,7 +825,7 @@
       <Features Count="0"/>
       <References Count="0"/>
     </Entity>
-    <Entity Id="0x0100000000000509" ObjectTemplateReference="0x01000000000006E4" ObjectTemplateReferenceName="NPC">
+    <Entity Id="0x0100000000000509">
       <DisplayName Count="1">
         <LocalizedString Lang="">Fionn MacPheadrais</LocalizedString>
       </DisplayName>
@@ -935,14 +837,7 @@
       <ExternalId/>
       <ShortId>0x2D2CD135</ShortId>
       <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929225</Url>
-      <Features Count="1">
-        <Feature Name="Cechy_g__wne" IdRef="0x01000000000006E9">
-          <Properties Count="2">
-            <Enum Name="EnumValue">1</Enum>
-            <String Name="SmallTextValue"/>
-          </Properties>
-        </Feature>
-      </Features>
+      <Features Count="0"/>
       <References Count="0"/>
     </Entity>
     <Entity Id="0x0100000000000568">
@@ -957,30 +852,6 @@
       <Features Count="0"/>
       <References Count="0"/>
     </Entity>
-    <FeatureDefinition Id="0x01000000000006E9">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">NPC Cechy główne</LocalizedString>
-      </DisplayName>
-      <Color>#C8E2E7</Color>
-      <TechnicalName>Cechy_g__wne</TechnicalName>
-      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929705</Url>
-      <PropertyDefinitions Count="2">
-        <PropertyDefinitionRef IdRef="0x01000000000006F1"/>
-        <PropertyDefinitionRef IdRef="0x01000000000006FD"/>
-      </PropertyDefinitions>
-    </FeatureDefinition>
-    <FeatureDefinition Id="0x010000000000070F">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">Opcje dialogów</LocalizedString>
-      </DisplayName>
-      <Color>#C8E2E7</Color>
-      <TechnicalName>Opcje_dialog_w</TechnicalName>
-      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929743</Url>
-      <PropertyDefinitions Count="2">
-        <PropertyDefinitionRef IdRef="0x010000000000071C"/>
-        <PropertyDefinitionRef IdRef="0x0100000000000731"/>
-      </PropertyDefinitions>
-    </FeatureDefinition>
     <FlowFragment Id="0x0100000000000126">
       <DisplayName Count="1">
         <LocalizedString Lang="">Croydon</LocalizedString>
@@ -1062,128 +933,6 @@
       <Size Width="175" Height="50"/>
       <ZIndex>6</ZIndex>
     </Hub>
-    <ObjectTemplateDefinition Id="0x01000000000006E4">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">NPC</LocalizedString>
-      </DisplayName>
-      <Color>#C8E2E7</Color>
-      <TechnicalName>NPC</TechnicalName>
-      <ExternalId/>
-      <ShortId>0xDC0504FF</ShortId>
-      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929700</Url>
-      <FeatureDefinitions Count="1">
-        <FeatureDefinitionRef IdRef="0x01000000000006E9"/>
-      </FeatureDefinitions>
-    </ObjectTemplateDefinition>
-    <ObjectTemplateDefinition Id="0x01000000000006DF">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">Szablon fragmentu dialogu</LocalizedString>
-      </DisplayName>
-      <Color>#00B0F0</Color>
-      <TechnicalName>Szablon_fragmentu_dialogu</TechnicalName>
-      <ExternalId/>
-      <ShortId>0x38782EFE</ShortId>
-      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929695</Url>
-      <FeatureDefinitions Count="1">
-        <FeatureDefinitionRef IdRef="0x010000000000070F"/>
-      </FeatureDefinitions>
-    </ObjectTemplateDefinition>
-    <ObjectTemplateDefinition Id="0x01000000000006DA">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">Szablon dialogu</LocalizedString>
-      </DisplayName>
-      <Color>#548DD4</Color>
-      <TechnicalName>Szablon_dialogu</TechnicalName>
-      <ExternalId/>
-      <ShortId>0x0EFC38F2</ShortId>
-      <Url>articy://localhost/view/ac6795f4-a2d8-4905-9167-89a0f902fc41/72057594037929690</Url>
-      <FeatureDefinitions Count="1">
-        <FeatureDefinitionRef IdRef="0x010000000000070F"/>
-      </FeatureDefinitions>
-    </ObjectTemplateDefinition>
-    <NumberPropertyDefinition Id="0x03000000BB84646C">
-      <IsMandatory>0</IsMandatory>
-      <DisplayThousandsSeparator>0</DisplayThousandsSeparator>
-    </NumberPropertyDefinition>
-    <TextPropertyDefinition Id="0x0300000069DB68B1">
-      <IsMandatory>0</IsMandatory>
-      <IsLocalized>0</IsLocalized>
-      <AllowsLinebreaks>0</AllowsLinebreaks>
-    </TextPropertyDefinition>
-    <EnumerationPropertyDefinition Id="0x030000000D3CFAD3">
-      <IsMandatory>0</IsMandatory>
-      <IsLocalized>0</IsLocalized>
-    </EnumerationPropertyDefinition>
-    <EnumerationPropertyDefinition Id="0x01000000000006F1" BasedOn="0x030000000D3CFAD3">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">Lista rozwijana</LocalizedString>
-      </DisplayName>
-      <TechnicalName>EnumValue</TechnicalName>
-      <Values Count="2">
-        <EnumValue>
-          <Value>1</Value>
-          <TechnicalName>Opcja_1</TechnicalName>
-          <DisplayName Count="1">
-            <LocalizedString Lang="">Opcja 1</LocalizedString>
-          </DisplayName>
-        </EnumValue>
-        <EnumValue>
-          <Value>2</Value>
-          <TechnicalName>Opcja_2</TechnicalName>
-          <DisplayName Count="1">
-            <LocalizedString Lang="">Opcja 2</LocalizedString>
-          </DisplayName>
-        </EnumValue>
-      </Values>
-    </EnumerationPropertyDefinition>
-    <TextPropertyDefinition Id="0x01000000000006FD" BasedOn="0x0300000069DB68B1">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">Krótki tekst</LocalizedString>
-      </DisplayName>
-      <TechnicalName>SmallTextValue</TechnicalName>
-    </TextPropertyDefinition>
-    <EnumerationPropertyDefinition Id="0x010000000000071C" BasedOn="0x030000000D3CFAD3">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">Lista rozwijana</LocalizedString>
-      </DisplayName>
-      <TechnicalName>EnumValue</TechnicalName>
-      <Values Count="4">
-        <EnumValue>
-          <Value>1</Value>
-          <TechnicalName>Warto___01</TechnicalName>
-          <DisplayName Count="1">
-            <LocalizedString Lang="">Wartość (01)</LocalizedString>
-          </DisplayName>
-        </EnumValue>
-        <EnumValue>
-          <Value>2</Value>
-          <TechnicalName>Warto___02</TechnicalName>
-          <DisplayName Count="1">
-            <LocalizedString Lang="">Wartość (02)</LocalizedString>
-          </DisplayName>
-        </EnumValue>
-        <EnumValue>
-          <Value>3</Value>
-          <TechnicalName>Warto___03</TechnicalName>
-          <DisplayName Count="1">
-            <LocalizedString Lang="">Wartość (03)</LocalizedString>
-          </DisplayName>
-        </EnumValue>
-        <EnumValue>
-          <Value>4</Value>
-          <TechnicalName>Warto___04</TechnicalName>
-          <DisplayName Count="1">
-            <LocalizedString Lang="">Wartość (04)</LocalizedString>
-          </DisplayName>
-        </EnumValue>
-      </Values>
-    </EnumerationPropertyDefinition>
-    <NumberPropertyDefinition Id="0x0100000000000731" BasedOn="0x03000000BB84646C">
-      <DisplayName Count="1">
-        <LocalizedString Lang="">Numer</LocalizedString>
-      </DisplayName>
-      <TechnicalName>NumberValue</TechnicalName>
-    </NumberPropertyDefinition>
   </Content>
   <Hierarchy>
     <Node IdRef="0x0100000000000001" Type="Project">
@@ -1241,21 +990,12 @@
       </Node>
       <Node IdRef="0x030000004C3DAF54" Type="Assets"/>
       <Node IdRef="0x0300000029CF057C" Type="ObjectTemplates">
-        <Node IdRef="0x03000000D2404DC0" Type="Features">
-          <Node IdRef="0x01000000000006E9" Type="FeatureDefinition"/>
-          <Node IdRef="0x010000000000070F" Type="FeatureDefinition"/>
-        </Node>
+        <Node IdRef="0x03000000D2404DC0" Type="Features"/>
         <Node IdRef="0x030000009AF68DCD" Type="ObjectTemplates">
-          <Node IdRef="0x0300000078B45A71" Type="TypedObjectTemplates">
-            <Node IdRef="0x01000000000006E4" Type="ObjectTemplateDefinition"/>
-          </Node>
+          <Node IdRef="0x0300000078B45A71" Type="TypedObjectTemplates"/>
           <Node IdRef="0x030000006D1BC275" Type="TypedObjectTemplates"/>
-          <Node IdRef="0x03000000030B5ACF" Type="TypedObjectTemplates">
-            <Node IdRef="0x01000000000006DF" Type="ObjectTemplateDefinition"/>
-          </Node>
-          <Node IdRef="0x030000008DD5C0F2" Type="TypedObjectTemplates">
-            <Node IdRef="0x01000000000006DA" Type="ObjectTemplateDefinition"/>
-          </Node>
+          <Node IdRef="0x03000000030B5ACF" Type="TypedObjectTemplates"/>
+          <Node IdRef="0x030000008DD5C0F2" Type="TypedObjectTemplates"/>
           <Node IdRef="0x0300000092CF598E" Type="TypedObjectTemplates"/>
           <Node IdRef="0x0300000030635118" Type="TypedObjectTemplates"/>
           <Node IdRef="0x03000000A715C057" Type="TypedObjectTemplates"/>
